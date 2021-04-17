@@ -1,0 +1,6 @@
+F:\CodingtTask\JellyMove\JellyMoveLib\bin\Debug\JellyMoveLib.dll
+F:\CodingtTask\JellyMove\JellyMoveLib\bin\Debug\JellyMoveLib.pdb
+F:\CodingtTask\JellyMove\JellyMoveLib\obj\Debug\JellyMoveLib.csprojAssemblyReference.cache
+F:\CodingtTask\JellyMove\JellyMoveLib\obj\Debug\JellyMoveLib.csproj.CoreCompileInputs.cache
+F:\CodingtTask\JellyMove\JellyMoveLib\obj\Debug\JellyMoveLib.dll
+F:\CodingtTask\JellyMove\JellyMoveLib\obj\Debug\JellyMoveLib.pdb

@@ -1,0 +1,13 @@
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\JellyMoveTest.dll
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\JellyMoveTest.pdb
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\JellyMoveLib.dll
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\Newtonsoft.Json.dll
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\nunit.framework.dll
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\JellyMoveLib.pdb
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\Newtonsoft.Json.xml
+F:\CodingtTask\JellyMove\JellyMoveTest\bin\Debug\nunit.framework.xml
+F:\CodingtTask\JellyMove\JellyMoveTest\obj\Debug\JellyMoveTest.csprojAssemblyReference.cache
+F:\CodingtTask\JellyMove\JellyMoveTest\obj\Debug\JellyMoveTest.csproj.CoreCompileInputs.cache
+F:\CodingtTask\JellyMove\JellyMoveTest\obj\Debug\JellyMoveTest.csproj.CopyComplete
+F:\CodingtTask\JellyMove\JellyMoveTest\obj\Debug\JellyMoveTest.dll
+F:\CodingtTask\JellyMove\JellyMoveTest\obj\Debug\JellyMoveTest.pdb
